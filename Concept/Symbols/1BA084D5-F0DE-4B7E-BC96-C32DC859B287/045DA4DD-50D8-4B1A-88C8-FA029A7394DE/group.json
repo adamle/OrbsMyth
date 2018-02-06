@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "045DA4DD-50D8-4B1A-88C8-FA029A7394DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 374,
+    "width": 360,
+    "x": 121,
+    "y": 91
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "02ED7981-D7B2-4D93-A528-E7327CBA1FAC"
+    },
+    {
+      "class": "group",
+      "id": "0745F8D7-8B00-4366-AAA9-3B525EAD2E14"
+    }
+  ],
+  "name": "iPhoneApp",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

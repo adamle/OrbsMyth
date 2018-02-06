@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "C9436470-DD52-427D-9713-D23310AB929A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F88A1D6-1378-4B92-A217-57C2E2135905"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B2DDD77-A3AF-4323-8049-F6E3EB1EC081"
+    }
+  ],
+  "name": "facebook",
+  "nameIsFixed": true,
+  "originalObjectID": "C9436470-DD52-427D-9713-D23310AB929A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

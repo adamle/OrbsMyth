@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "3ED1BFFF-3A71-4134-AD21-0AACAFBC75C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 24,
+    "x": 307,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A439262-DF70-4353-BA26-FF8E0A4FF21A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0536C25-D8C3-484B-A889-0E2CBE775826"
+    }
+  ],
+  "name": "instagram",
+  "nameIsFixed": true,
+  "originalObjectID": "3ED1BFFF-3A71-4134-AD21-0AACAFBC75C0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

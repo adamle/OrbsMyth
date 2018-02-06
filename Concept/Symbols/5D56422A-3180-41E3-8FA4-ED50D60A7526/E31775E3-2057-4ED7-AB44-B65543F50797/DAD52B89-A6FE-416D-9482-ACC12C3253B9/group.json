@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "DAD52B89-A6FE-416D-9482-ACC12C3253B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 25,
+    "x": 60,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "04136BC6-5311-4D1C-A157-A6CA6299A5C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A3862D7-9E25-452E-A37E-FA5240BB53A2"
+    }
+  ],
+  "name": "linkedin",
+  "nameIsFixed": true,
+  "originalObjectID": "DAD52B89-A6FE-416D-9482-ACC12C3253B9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

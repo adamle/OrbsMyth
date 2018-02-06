@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "40B85B2B-7062-4A78-82B9-7ECA663DB1E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 360,
+    "x": 541,
+    "y": 852
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 12,
+  "masterInfluenceEdgeMaxYPadding": 24,
+  "masterInfluenceEdgeMinXPadding": 12,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "shadow",
+  "nameIsFixed": true,
+  "overrides": {
+    "0A589A4A-A9B7-4686-BBD3-B6220033F7F7": {
+      "FFC51A48-474F-45CE-A9D0-393B825B1E85": {
+        "symbolID": "0520CF59-DE4F-495E-B8D7-2BBD545DF5B8"
+      },
+      "symbolID": "3A994FE7-C8C5-436D-9290-0C0920DE1EF5"
+    },
+    "83786D7D-F550-4E68-BE3F-F3743B7FF89F": "Craft Epic Item"
+  },
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1789515398550725,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "A0318F10-9695-4B5C-981E-2F733E05E4A7",
+  "verticalSpacing": 0
+}

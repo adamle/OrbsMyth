@@ -1,0 +1,119 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1,
+  "do_objectID": "FD45D45B-ADA5-4EBB-B4C3-14406737B13D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1440,
+    "x": 3494,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E21F3540-B38A-4B12-A153-F65EEF38C8F9"
+    },
+    {
+      "class": "text",
+      "id": "BCCC3EA0-5209-422D-9DF7-75F255524A73"
+    },
+    {
+      "class": "text",
+      "id": "C352074C-09BD-4AB6-853E-B58A0A01837F"
+    },
+    {
+      "class": "text",
+      "id": "D8DA5E88-F136-49C3-A93F-7C9CE04F0B5A"
+    },
+    {
+      "class": "bitmap",
+      "id": "604E19EB-B0E5-47D5-AFDF-E72DC924BFE3"
+    },
+    {
+      "class": "text",
+      "id": "CCED344A-0D21-4FF2-B5C9-1EA2856F07DC"
+    },
+    {
+      "class": "text",
+      "id": "56665BA7-2D9E-4C02-8B91-CF664746E9F0"
+    },
+    {
+      "class": "text",
+      "id": "DE0C4A2D-DFB9-45DD-B523-A43F87A6B385"
+    },
+    {
+      "class": "text",
+      "id": "33E0FDC8-6BC3-4F52-BF49-440E433C17FF"
+    },
+    {
+      "class": "text",
+      "id": "D8F7AA8C-819B-4B2C-B333-C520F8FF2C27"
+    },
+    {
+      "class": "group",
+      "id": "61534CD3-4011-4BAF-9E89-2120D86673D0"
+    },
+    {
+      "class": "group",
+      "id": "BAD5219F-1284-46C7-B4CA-AD590DE7CCD1"
+    },
+    {
+      "class": "group",
+      "id": "706B693D-5272-4385-A60C-99CCE0FC9FC6"
+    }
+  ],
+  "name": "Advantages #2",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C9EF8A29-ED04-4DCA-B304-126C4632A549",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
